@@ -1,0 +1,9 @@
+{ 
+    "token"  : "",
+
+    "prefix" : "!",
+
+    "antiBadWord" : true,
+
+    "antiDiscordLink" : true
+  }
